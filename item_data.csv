@@ -1,0 +1,8 @@
+auctionHouseId,itemId,petSpeciesId,minBuyout,quantity,marketValue,historical,numAuctions,itemName,itemRecipe
+556,3860,,1959,1755,2397,2505.25,40,Mithril Bar,
+556,9061,,3951,252,6744,6744.5,20,Goblin Rocket Fuel,
+556,10646,,10329,221,13373,13735.0,16,Goblin Sapper Charge,"1 Unstable Trigger, 1 Mageweave Cloth, 3 Solid Blasting Powder"
+556,10560,,3971,52,6403,6619.25,8,Unstable Trigger,"1 Mithril Bar, 1 Mageweave Cloth, 1 Solid Blasting Powder"
+556,4338,,270,6069,384,388.0,62,Mageweave Cloth,
+556,10505,,1376,214,1949,1638.0,21,Solid Blasting Powder,2 Solid Stone
+556,7912,,417,4645,773,751.0,109,Solid Stone,

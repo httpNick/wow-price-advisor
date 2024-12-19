@@ -1,0 +1,2 @@
+[console_scripts]
+wowpriceadvise = wow_price_advisor.cli:main
